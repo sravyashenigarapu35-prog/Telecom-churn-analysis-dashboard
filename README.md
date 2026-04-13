@@ -1,2 +1,2 @@
 # Telecom - churn-analysis-dashboard
-End-to-end Customer Churn Analysis using SQL, Python, and Power BI
+End-to-end customer churn analysis using SQL, Python ML, and Power BI
